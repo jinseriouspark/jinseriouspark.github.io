@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About me"
-author: "jinserious"
+author: "jinseriouspark"
 permalink: /about/
 ---
 
