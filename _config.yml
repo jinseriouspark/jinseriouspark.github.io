@@ -1,7 +1,7 @@
 # Site settings
 title:          jinseriouspark
 description:    "Serious Coding Park"
-baseurl:        "/home"
+#baseurl:        "/home"
 url:            "https://jinseriouspark.github.io"
 theme:          tale
 
