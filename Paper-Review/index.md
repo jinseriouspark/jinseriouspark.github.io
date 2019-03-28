@@ -10,7 +10,7 @@ project-header: true
 <ul class="catalogue">
 {% assign sorted = site.pages | sort: 'order' | reverse %}
 {% for page in sorted %}
-{% if page.paper-view == true %}
+{% if page.paper-review == true %}
 {% include post-list.html %}
 {% endif %}
 {% endfor %}
