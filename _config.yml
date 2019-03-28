@@ -3,6 +3,7 @@ title:          jinseriouspark
 description:    "Serious Coding Park"
 baseurl:        "/home"
 url:            "https://jinseriouspark.github.io"
+theme:          tale
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
