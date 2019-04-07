@@ -4,13 +4,12 @@ title: "Factorization Machines 번역"
 author: "Seriouscoding"
 ---
 
-{% highlight markdown %}
+
 
 추천시스템 스터디를 위한 논문 번역본이며, 오역이 있을시 말씀주시면 수정하겠습니다.
 출처 : Factorization Machines - Steffen Rendle
 
-{% end highlight %}
-
+______________________________________________________________
 
 ##요약
 
