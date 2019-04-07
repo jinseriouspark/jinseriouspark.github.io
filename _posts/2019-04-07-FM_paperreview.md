@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Factorization Machines 번역"
-author: "Seriouscode"
+author: "Seriouscoding"
 ---
 
 추천시스템 스터디를 위한 논문 번역본이며, 오역이 있을시 말씀주시면 수정하겠습니다.
