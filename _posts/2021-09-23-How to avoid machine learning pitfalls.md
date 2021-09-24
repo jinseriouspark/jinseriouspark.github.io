@@ -6,9 +6,9 @@ author: "Seriouscoding"
 
 오역이 있을시 말씀주시면 수정하겠습니다.
 
-**원제: How to avoid machine learning pitfalls: a guide for academic researchers**
-**저자: Michale A. Lones**
-**링크: [arxiv 2108.02497 원문](https://arxiv.org/abs/2108.02497)**
+** 원제: How to avoid machine learning pitfalls: a guide for academic researchers**
+** 저자: Michale A. Lones**
+** 링크: [arxiv 2108.02497 원문](https://arxiv.org/abs/2108.02497)**
 
 ______________________________________________________________
 
