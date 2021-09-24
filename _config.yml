@@ -30,6 +30,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-sitemap
   - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
@@ -41,3 +42,4 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
 disqus:         jinseriouspark
+disqus_shortname: https-jinseriouspark-github-io-1
