@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A recipe for training neural networks 신경망 학습 가이드"
+title: "A recipe for training neural networks 신경망 학습 가이드(2)"
 author: "Seriouscoding"
 ---
 
